@@ -123,7 +123,6 @@ The evaluation scores positions in centipawns (100 = 1 pawn advantage):
 - No endgame tablebases
 - No pondering (doesn't think on opponent's time)
 
-For serious engine development you'd want to use C/C++ or Rust, but this is a great learning project.
 
 ## Engine Strength
 
